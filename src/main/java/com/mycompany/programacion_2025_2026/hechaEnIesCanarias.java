@@ -6,8 +6,8 @@ package com.mycompany.programacion_2025_2026;
 
 /**
  *
- * @author Wilfredo2025
+ * @author Alumno
  */
-public class NewClass {
+public class hechaEnIesCanarias {
     
 }
